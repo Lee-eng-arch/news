@@ -98,7 +98,7 @@ Contributions are welcome! Feel free to submit pull requests or create issues fo
 
 # 🙏 感谢
 [ourongxing](https://github.com/ourongxing/newsnow/)
-
+体项目由 VTEXS 的「开源项目免费 VPS 计划」提供算力支持,感谢 VTEXS 对开源社区的支持!
  # 
 <center>
 <details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
